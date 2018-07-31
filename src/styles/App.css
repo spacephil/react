@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  border: 1px solid grey;
+  width: 400px;
+  margin: 100px auto;
+  padding: 20px;
+  background-color: rgba(255,255,255,0.5);
+  box-shadow: 4px 5px 10px #0000002e;
+}
+
+.main-image-avatar{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
+
+.cardimage{
+  width: 100%;
+  height: 100%;
+}
+
+.cardimage > .cardimage-big{
+  width: 400px;
+  height: 200px;
+}
